@@ -1,0 +1,47 @@
+{
+    "project_info": {
+        "project_number": "761562547862",
+        "project_id": "geoengage-cb509",
+        "storage_bucket": "geoengage-cb509.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:761562547862:android:25084280f6cda33f0ca4b7",
+                "android_client_info": {
+                    "package_name": "com.geoengage.mob"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "761562547862-27t8br93780ijcvccbti9adgc6pkre89.apps.googleusercontent.com",
+                    "client_type": 1,
+                    "android_info": {
+                        "package_name": "com.geoengage.mob",
+                        "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+                    }
+                },
+                {
+                    "client_id": "761562547862-va3c7kh3i04maagpookhg724qmh7r2j8.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyBZ0Rtkp0gPxkKCgH_7JHG7BsdKEdKy1dw"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "761562547862-va3c7kh3i04maagpookhg724qmh7r2j8.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
